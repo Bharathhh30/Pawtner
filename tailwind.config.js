@@ -9,6 +9,7 @@ export default {
       fontFamily:{
         montserrat: ['Montserrat', 'sans-serif'],
         palanquin: ['Palanquin', 'sans-serif'],
+        poppins: ['Poppins', 'sans-serif'],
       }
     },
   },

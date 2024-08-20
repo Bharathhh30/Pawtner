@@ -3,7 +3,9 @@ import dog1 from '../assets/images/dog1.jpg';
 import DogCard from '../components/DogCard';
 import { dogs } from '../constants/index';
 import dog2 from '../assets/images/dog2.jpg';
-import dog6 from '../assets/images/dog4.jpg';
+import dog77 from '../assets/images/dog77.png';
+import cat1 from '../assets/images/cat1.png';
+
 
 function Hero() {
     const [dogImg, setDogImg] = useState(dog1);
@@ -28,10 +30,10 @@ function Hero() {
                 <DogCard imgURL={dog2} dogAlt="dog2" />
             </div>
             <div className='pt-8'>
-                <DogCard imgURL={dog2} dogAlt="dog2" />
+                <DogCard imgURL={cat1} dogAlt="cat1" />
             </div>
-            <div className='pt-8'>
-                <DogCard imgURL={dog2} dogAlt="dog2" />
+            <div className='pt-8 '>
+                <DogCard imgURL={dog77} dogAlt="dog77"  />
             </div>
           </div>
         </div>
