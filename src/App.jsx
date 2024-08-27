@@ -9,6 +9,7 @@ import Pawshelther from './pages/Pawshelther';
 import Pawoctor from './pages/Pawoctor';
 import LoginPage from './pages/LoginPage';
 import SignUp from './pages/SignUp';
+import Testimonials from './sections/Testimonials';
 
 function App() {
   const location = useLocation();
@@ -31,7 +32,7 @@ function App() {
                   <Features />
                 </section>
                 <section>
-                  Yet To Be Added
+                  <Testimonials />
                 </section>
               </>
             }
