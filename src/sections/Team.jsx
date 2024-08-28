@@ -14,21 +14,21 @@ function Team() {
        },
         {
           id: 2,
-          name: "Yashaswini",
-          designation: "22EG110D32",
+          name: "Yashna",
+          designation: "30-04-2005",
           image:
-            "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXZhdGFyfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+            "https://i.pinimg.com/736x/ae/1c/27/ae1c27c1b96f319fea79a86708a835a9.jpg",
         },
         {
           id: 3,
-          name: "Hemanth",
+          name: "Hemanth Rawat",
           designation: "22EG110D50",
           image:
             "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8YXZhdGFyfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
         },
         {
           id: 4,
-          name: "Akshay",
+          name: "Akshay Laddu",
           designation: "22EG110D49",
           image:
             "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGF2YXRhcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
@@ -42,10 +42,10 @@ function Team() {
         },
         {
           id: 6,
-          name: "Yashna",
-          designation: "30-04-2005",
+          name: "Yashaswini Yadav",
+          designation: "22EG110D32",
           image:
-            "https://i.pinimg.com/736x/ae/1c/27/ae1c27c1b96f319fea79a86708a835a9.jpg",
+          "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3540&q=80",
         },
       ];
   return (
