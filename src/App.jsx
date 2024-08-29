@@ -11,6 +11,7 @@ import LoginPage from './pages/LoginPage';
 import SignUp from './pages/SignUp';
 import Testimonials from './sections/Testimonials';
 import Team from './sections/Team';
+import Footer from './sections/Footer';
 
 function App() {
   const location = useLocation();
@@ -37,6 +38,9 @@ function App() {
                 </section>
                 <section>
                   <Team />
+                </section>
+                <section>
+                  <Footer />
                 </section>
               </>
             }

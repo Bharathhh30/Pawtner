@@ -1,6 +1,7 @@
 import React from 'react'
 import { AnimatedTooltip } from '../components/Ace-ui/Animatedtooltip'
 import bharath from '../assets/images/bharath.jpg'
+import Hemanth from '../assets/images/Hemanth.jpg'
 
 function Team() {
 
@@ -24,6 +25,7 @@ function Team() {
           name: "Hemanth Rawat",
           designation: "22EG110D50",
           image:
+                // {Hemanth}
             "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8YXZhdGFyfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
         },
         {
@@ -54,7 +56,7 @@ function Team() {
             <div className='flex flex-1 justify-center'>
                 <p className='font-semibold text-3xl text-yellow-600'>Team - Hi Nanna</p>
             </div>
-            <div className="flex flex-row items-center justify-center mb-10 w-full">
+            <div className="flex flex-row items-center justify-center mb-2 w-full">
                 <AnimatedTooltip items = {people}/>
             </div>
         </div>
