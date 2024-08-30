@@ -10,6 +10,7 @@ import catcard3 from '../assets/images/cat-card-10.jpg'
 import catcard4 from '../assets/images/cat-card-4.jpg'
 import { FlipWords } from '../components/Ace-ui/Flip-words'
 import { CardBody, CardContainer, CardItem } from '../components/Ace-ui/3d-Card';
+import PagesFooter from '../sections/PagesFooter'
 
 
 function Pawdopt() {
@@ -193,7 +194,13 @@ function Pawdopt() {
             </CardBody>
           </CardContainer>
 
-        
+          
+        </div>
+
+        <div>
+        <div className='bg-white'>
+            <PagesFooter />
+          </div>
         </div>
       </div>
     </>

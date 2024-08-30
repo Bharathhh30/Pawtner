@@ -26,21 +26,21 @@ function Team() {
           designation: "22EG110D50",
           image:
                 // {Hemanth}
-            "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8YXZhdGFyfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+            "https://i.postimg.cc/fWPGv7tz/Screenshot-2024-08-30-203214.png",
         },
         {
           id: 4,
           name: "Akshay Laddu",
           designation: "22EG110D49",
           image:
-            "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGF2YXRhcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
+            "https://i.postimg.cc/Tw6whMxs/Whats-App-Image-2024-08-29-at-22-16-15-ce443148.jpg",
         },
         {
           id: 5,
           name: "Akshitha",
           designation: "22EG110D51",
           image:
-            "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3540&q=80",
+            "https://i.postimg.cc/CK1yNcNK/Screenshot-2024-08-30-203325.png",
         },
         {
           id: 6,
