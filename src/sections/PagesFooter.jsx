@@ -1,16 +1,11 @@
 import React from 'react'
-import TextHoverEffect from '../components/Ace-ui/Highlight'
 import logo from '../assets/images/logo.jpg'
 
-function Footer() {
+function PagesFooter() {
   return (
     <>
-        <div className='flex flex-1 flex-col'>
-            <div className="h-[10rem] flex flex-1 items-center justify-center">
-                <TextHoverEffect text = "PAWTNER"/>
-                
-            </div>
-            <div className='flex flex-1 w-full bg-slate-50 justify-evenly'>
+    <div className='bg-white'>
+         <div className='flex w-[100%] bg-slate-50 '>
                 <div className='flex flex-1 flex-row justify-evenly mt-10'>
                   <div className='flex flex-1 justify-center flex-col gap-y-1 pl-40'>
                     <div className='flex flex-1 overflow-hidden h-[20%] rounded-lg'>
@@ -58,10 +53,9 @@ function Footer() {
                   </div>
                 </div>
             </div>
-            
-        </div>
+    </div>
     </>
   )
 }
 
-export default Footer
+export default PagesFooter
