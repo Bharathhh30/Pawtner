@@ -22,7 +22,7 @@ function Team() {
         },
         {
           id: 3,
-          name: "Hemanth Rawat",
+          name: "Hemanth ",
           designation: "22EG110D50",
           image:
                 // {Hemanth}
@@ -30,7 +30,7 @@ function Team() {
         },
         {
           id: 4,
-          name: "Akshay Laddu",
+          name: "Akshay ",
           designation: "22EG110D49",
           image:
             "https://i.postimg.cc/Tw6whMxs/Whats-App-Image-2024-08-29-at-22-16-15-ce443148.jpg",
@@ -44,10 +44,10 @@ function Team() {
         },
         {
           id: 6,
-          name: "Yashaswini Yadav",
+          name: "Yashaswini ",
           designation: "22EG110D32",
           image:
-          "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3540&q=80",
+          "https://i.postimg.cc/6qbsFShq/Screenshot-2024-08-30-210809.png",
         },
       ];
   return (
