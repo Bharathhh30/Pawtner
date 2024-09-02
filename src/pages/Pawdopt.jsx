@@ -65,9 +65,10 @@ function Pawdopt() {
                     className="h-60 w-full object-cover rounded-xl group-hover/card:shadow-xl"
                     alt="thumbnail"
                   />
-              <h1 className='text-xl font-semibold gap-x-2 px-2 text-[#B95D2F]'>Pluto - A Golden Retriver</h1>
-              <h1 className='text-lg font-semibold gap-x-2 px-2'>2 year old boy , Very Active and Friendly.</h1>
-              <p className='pt-4'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit est ipsum vitae expedita temporibus reprehenderit, iure animi provident laudantium impedit, assumenda atque voluptate mollitia! Excepturi molestias animi laboriosam impedit iusto?</p>
+              <h1 className='text-xl font-semibold gap-x-2 px-2 text-[#B95D2F]'>Whiskers - Maine Coon</h1>
+              <h1 className='text-lg font-semibold gap-x-2 px-2'>Whiskers is a sociable Maine Coon with a friendly.</h1>
+              <p className='pt-4'>Whiskers is a sociable Maine Coon with a friendly, laid-back demeanor. Known for their large size and tufted features, Maine Coons are gentle giants who get along well with kids and other pets.
+              </p>
 
               <button className='bg-[#B95D2F] px-4 py-2 text-white mt-6 shadow-xl ring ring-slate-900/5 rounded-2xl'>Wanna Adopt</button>
               </CardItem>
@@ -86,8 +87,8 @@ function Pawdopt() {
                     alt="thumbnail"
                   />
               <h1 className='text-xl font-semibold gap-x-2 px-2 text-[#B95D2F]'>Leo - A Labrodour Retriver</h1>
-              <h1 className='text-lg font-semibold gap-x-2 px-2'>2 year old boy , Very Active and Friendly.</h1>
-              <p className='pt-4'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit est ipsum vitae expedita temporibus reprehenderit, iure animi provident laudantium impedit, assumenda atque voluptate mollitia! Excepturi molestias animi laboriosam impedit iusto?</p>
+              <h1 className='text-lg font-semibold gap-x-2 px-2'>Leo is a playful and energetic Labrador Retriever with a love for outdoor adventures.</h1>
+              <p className='pt-4'>Leo's loyalty and eagerness to please make him an ideal family pet, great with kids, and always ready for a game of fetch or a swim in the lake. His intelligence and trainable nature also make him a perfect candidate for service and therapy work.</p>
 
               <button className='bg-[#B95D2F] px-4 py-2 text-white mt-6 shadow-xl ring ring-slate-900/5 rounded-2xl'>Wanna Adopt</button>
               </CardItem>
@@ -105,9 +106,9 @@ function Pawdopt() {
                     className="h-60 w-full object-cover rounded-xl group-hover/card:shadow-xl"
                     alt="thumbnail"
                   />
-              <h1 className='text-xl font-semibold gap-x-2 px-2 text-[#B95D2F]'>Pluto - A Golden Retriver</h1>
+              <h1 className='text-xl font-semibold gap-x-2 px-2 text-[#B95D2F]'>Luna - A Sphynx cat</h1>
               <h1 className='text-lg font-semibold gap-x-2 px-2'>2 year old boy , Very Active and Friendly.</h1>
-              <p className='pt-4'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit est ipsum vitae expedita temporibus reprehenderit, iure animi provident laudantium impedit, assumenda atque voluptate mollitia! Excepturi molestias animi laboriosam impedit iusto?</p>
+              <p className='pt-4'>Luna is a unique Sphynx cat with a striking hairless look and a warm, affectionate personality. Known for their playful and attention-loving nature, Sphynx cats like Luna thrive on snuggles and companionship. She’s ideal for those seeking a distinctive and close-knit pet.</p>
 
               <button className='bg-[#B95D2F] px-4 py-2 text-white mt-6 shadow-xl ring ring-slate-900/5 rounded-2xl'>Wanna Adopt</button>
               </CardItem>
@@ -125,9 +126,10 @@ function Pawdopt() {
                     className="h-60 w-full object-cover rounded-xl group-hover/card:shadow-xl"
                     alt="thumbnail"
                   />
-              <h1 className='text-xl font-semibold gap-x-2 px-2 text-[#B95D2F]'>Pluto - A Golden Retriver</h1>
-              <h1 className='text-lg font-semibold gap-x-2 px-2'>2 year old boy , Very Active and Friendly.</h1>
-              <p className='pt-4'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit est ipsum vitae expedita temporibus reprehenderit, iure animi provident laudantium impedit, assumenda atque voluptate mollitia! Excepturi molestias animi laboriosam impedit iusto?</p>
+              <h1 className='text-xl font-semibold gap-x-2 px-2 text-[#B95D2F]'>Luna - A Samoyed</h1>
+              <h1 className='text-lg font-semibold gap-x-2 px-2'>Luna , 5 Year Old Tail Wagger</h1>
+              <p className='pt-4'>Luna is a striking Samoyed with a friendly demeanor and distinctive white coat. Known for their social and gentle nature, Samoyeds like Luna are affectionate and playful, making her a joyful addition to an active and loving family.
+              </p>
 
               <button className='bg-[#B95D2F] px-4 py-2 text-white mt-6 shadow-xl ring ring-slate-900/5 rounded-2xl'>Wanna Adopt</button>
               </CardItem>
@@ -145,9 +147,9 @@ function Pawdopt() {
                     className="h-60 w-full object-cover rounded-xl group-hover/card:shadow-xl"
                     alt="thumbnail"
                   />
-              <h1 className='text-xl font-semibold gap-x-2 px-2 text-[#B95D2F]'>Pluto - A Golden Retriver</h1>
-              <h1 className='text-lg font-semibold gap-x-2 px-2'>2 year old boy , Very Active and Friendly.</h1>
-              <p className='pt-4'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit est ipsum vitae expedita temporibus reprehenderit, iure animi provident laudantium impedit, assumenda atque voluptate mollitia! Excepturi molestias animi laboriosam impedit iusto?</p>
+              <h1 className='text-xl font-semibold gap-x-2 px-2 text-[#B95D2F]'>Bella - A Ragdoll Cat</h1>
+              <h1 className='text-lg font-semibold gap-x-2 px-2'>Bella is a charming Ragdoll cat </h1>
+              <p className='pt-4'>Bella's affectionate nature and calm demeanor make her a great companion for both adults and children. She loves to be held and cuddled, often following her owners around the house.</p>
 
               <button className='bg-[#B95D2F] px-4 py-2 text-white mt-6 shadow-xl ring ring-slate-900/5 rounded-2xl'>Wanna Adopt</button>
               </CardItem>
@@ -165,9 +167,10 @@ function Pawdopt() {
                     className="h-60 w-full object-cover rounded-xl group-hover/card:shadow-xl"
                     alt="thumbnail"
                   />
-              <h1 className='text-xl font-semibold gap-x-2 px-2 text-[#B95D2F]'>Pluto - A Golden Retriver</h1>
-              <h1 className='text-lg font-semibold gap-x-2 px-2'>2 year old boy , Very Active and Friendly.</h1>
-              <p className='pt-4'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit est ipsum vitae expedita temporibus reprehenderit, iure animi provident laudantium impedit, assumenda atque voluptate mollitia! Excepturi molestias animi laboriosam impedit iusto?</p>
+              <h1 className='text-xl font-semibold gap-x-2 px-2 text-[#B95D2F]'>Sunny - A Golden Retriver</h1>
+              <h1 className='text-lg font-semibold gap-x-2 px-2'>Sunny is the perfect blend of friendliness and intelligence.</h1>
+              <p className='pt-4'> Golden Retrievers like Sunny are playful, loyal, and great with kids and pets. They thrive in active families, enjoying walks, fetch, and playful antics.
+              </p>
 
               <button className='bg-[#B95D2F] px-4 py-2 text-white mt-6 shadow-xl ring ring-slate-900/5 rounded-2xl'>Wanna Adopt</button>
               </CardItem>
@@ -185,9 +188,9 @@ function Pawdopt() {
                     className="h-60 w-full object-cover rounded-xl group-hover/card:shadow-xl"
                     alt="thumbnail"
                   />
-              <h1 className='text-xl font-semibold gap-x-2 px-2 text-[#B95D2F]'>Pluto - A Golden Retriver</h1>
-              <h1 className='text-lg font-semibold gap-x-2 px-2'>2 year old boy , Very Active and Friendly.</h1>
-              <p className='pt-4'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit est ipsum vitae expedita temporibus reprehenderit, iure animi provident laudantium impedit, assumenda atque voluptate mollitia! Excepturi molestias animi laboriosam impedit iusto?</p>
+              <h1 className='text-xl font-semibold gap-x-2 px-2 text-[#B95D2F]'>Oliver - A Scottish Fold Cat</h1>
+              <h1 className='text-lg font-semibold gap-x-2 px-2'>Oliver is a sweet and affectionate Scottish Fold cat</h1>
+              <p className='pt-4'>Oliver is laid-back and enjoys lounging around the house, but he also has a playful side, especially when chasing after his favorite toy. His gentle and adaptable personality makes him well-suited for a variety of households</p>
 
               <button className='bg-[#B95D2F] px-4 py-2 text-white mt-6 shadow-xl ring ring-slate-900/5 rounded-2xl'>Wanna Adopt</button>
               </CardItem>
